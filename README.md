@@ -2,7 +2,7 @@
 
 This repository contains dataprocessing logic of PAS Reporter v0.60. It does not contain the entire source code of the tool (e. g. it does not contain the UI logic, settings management, etc.).
 
-A purpose of this repository is to provide transparency of how the PAS Reporter determines the reporting information.
+A purpose of this repository is to provide transparency of how the PAS Reporter determines reporting information.
 
 **Please note, that the PAS Reporter is not supported by CyberArk and is not further being developed.**
 
