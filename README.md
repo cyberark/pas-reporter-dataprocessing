@@ -4,7 +4,7 @@ This repository contains dataprocessing logic of PAS Reporter v0.60. It does not
 
 A main purpose of this repository is to provide transparency of how the PAS Reporter determines the reporting information.
 
-The code in the repository can be used in accordance to the [licensing terms](https://github.com/cyberark/pas-reporter-dataprocessing/blob/main/LICENSE).
+The code in this repository can be used in accordance to the [licensing terms](https://github.com/cyberark/pas-reporter-dataprocessing/blob/main/LICENSE).
 
 **Please also note, that the PAS Reporter is not supported by CyberArk and is not further being developed.**
 
