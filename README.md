@@ -1,6 +1,6 @@
 # pas-reporter-dataprocessing
 
-This repository contains the dataprocessing logic of PAS Reporter. IT DOES NOT CONTAIN THE ENTIRE SOURCE CODE OF THE TOOL (e. g. it does not contain the UI logic, settings management, etc.).
+This repository contains dataprocessing logic of PAS Reporter. IT DOES NOT CONTAIN THE ENTIRE SOURCE CODE OF THE TOOL (e. g. it does not contain the UI logic, settings management, etc.).
 
 A main purpose of this repository is to provide transparency of how the PAS Reporter determines the reporting information.
 
