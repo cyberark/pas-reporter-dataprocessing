@@ -57,11 +57,6 @@ MIT License (MIT)
 © Microsoft Corporation. All rights reserved.
 Copyright (c) .NET Foundation and Contributors. All rights reserved.
 
-System.Windows.Forms 4.0.30319.34211
-MIT License (MIT)
-© Microsoft Corporation. All rights reserved.
-Copyright (c) .NET Foundation and Contributors. All rights reserved.
-
 System.Xaml 4.0.30319.34211
 MIT License (MIT)
 © Microsoft Corporation. All rights reserved.
